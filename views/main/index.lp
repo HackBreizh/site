@@ -405,10 +405,10 @@
 					</div>
 					<div class="our_clients" style="margin-top: 0px; padding-top: 0px">
 						<div class="text-center" >
-							<a href="#">
+							<!--<a href="#">
 								<h3>Read information about how to be a sponsor.</h3>
-							</a>
-							<p><a class="btn btn-red" href="#">SPONSOR HACKBREIZH</a></p>
+							</a>-->
+							<p><a class="btn btn-red" href="mailto:contact@hackbreizh.info">SPONSOR HACKBREIZH</a></p>
 							
 						</div>
 
