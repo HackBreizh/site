@@ -5,7 +5,7 @@ local conf = {
 							  -- Example: 'maintenance' will render /views/maintenance.lp
 		default_controller = 'main', 
 		default_action = 'index',
-		theme = 'default',
+		theme = 'ui-hero',
 		layout = 'main',
 		route_parameter = 'r',
 		default_error404 = 'error/404',
